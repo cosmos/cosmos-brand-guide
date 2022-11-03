@@ -22,7 +22,7 @@ The Cosmos logotype is the first and the most important visual element of the br
 
 The logotype can be displayed in Cosmos Primary Colors (Black & White), or Secondary Colors (Cosmos Violet Family). Further details on colors can be found in [3. Color](#3-color).
 
-[Download files](#)
+[Download files (SVG, PNG, EPS)](#)
 
 ![Cosmos logotype positive](assets/cosmos-logotype-positive.svg)
 
@@ -33,7 +33,7 @@ The communities in the Cosmos ecosystem are connected via the Cosmos Hub, a volu
 
 The logotype can be displayed in Cosmos Primary Colors (Black & White), or Secondary Colors (Cosmos Violet Family). Further details on colors can be found in [3. Color](#3-color).
 
-[Download files](#)
+[Download files (SVG, PNG, EPS)](#)
 
 ![Cosmos Hub logotype positive](assets/cosmoshub-logotype-positive.svg)
 
@@ -53,7 +53,7 @@ It is also important to note that the symbol is always uppercase and not ‘ø�
 ### 2.4. Cosmos Badge
 The Cosmos badge is designed to be used as icons in various contexts, market databases and social media channels to represent the Cosmos and Cosmos Hub.
 
-[Download files](#)
+[Download files (SVG, PNG](#)
 
 ![Cosmos badge](assets/cosmos-badge.svg)
 
@@ -77,15 +77,16 @@ The Cosmos logos should always be displayed in the brand’s primary color (a sh
 
 ## 3. Color
 
-The color system of the Cosmos brand consists of three groups of colors – primary, secondary, and tertiary – each of which is a full spectrum of shades of a single ‘seed’ color. Among these three groups, only the primary colors can be rendered as gradient. Secondary and tertiary colors are always rendered flat.
+The color system of the Cosmos brand consists of three spaces of colors: [Primary](#31-primary-colors), [Secondary](#32-secondary-colors), and [Tertiary](#33-tertiary-colors). Primary colors consists of black & white. Secondary and Tertiary colors expands from a single 'seed' color, resulting in a family of related colors. The Primary colors can be rendered as a gradient but Secondary and tertiary colors are designed to be always used flat.
 
 ![Color table](assets/colors-palette.svg)
+[Download palette (EPS, FIG, ASE)](#)
 
 ### 3.1. Primary colors
-The primary color space defines the most important set of colors of the brand: black and white. Unless there is a compelling reason, the Cosmos logos should be rendered in the colors in this space. The colors in this space can be used as flat, or as gradient.
+The primary colors define the most important set of colors of the brand: black and white. Unless there is a compelling reason, the Cosmos logos should always be rendered in these colors. The black and white can be rendered flat or as gradient.
 
 #### Black & white
-The color black embodies the clarity of the Cosmos brand. The primary color spectrum for the Cosmos brand starts from the pure black `HSB (0, 0, 0)` to the pure white `HSB (0, 0, 100)`. Any color inside the spectrum can be used to meet the needs of applications. However, it is best practice to default to pure black and white, unless there’s a specific need to use shades of gray.
+The contrast built in black and white embodies the clarity of the Cosmos brand. The primary colors for the Cosmos starts from the pure black `HSB (0, 0, 0)` to the pure white `HSB (0, 0, 100)`. Any color inside the spectrum can be used to meet the needs of applications. However, it is best practice to use pure black and white by default, unless there’s a specific need to use shades of gray.
 
 |                                              | Name              | HSB           | RGB           | Hex     |
 | -------------------------------------------- | ----------------- | ------------- | ------------- | ------- |
@@ -93,20 +94,20 @@ The color black embodies the clarity of the Cosmos brand. The primary color spec
 | ![](https://placehold.co/15x15/FFFFFF/FFFFFF.png) | **White**             | `0, 0, 100 `    | `255, 255, 255` | `#FFFFFF` |
 
 #### Gradient
-When appropriate, the primary colors can be rendered as gradients. The gradient can be of the full spectrum – from brightness `0` to `100` – or partial. Be always mindful with the use of gradients. Overuse may lead to an overly superficial look that is against the brand’s intended tone of communication.
+When appropriate, the black & white can be rendered as a gradient. The gradient can be of the full spectrum – from brightness `0` to `100` – or partial. However, be always mindful with the use of gradients. Misuse may lead to an overly superficial look that is against the brand’s intended tone of communication.
 
 ![Color system](assets/colors-overview.svg)
 
 ### 3.2. Secondary colors
-The secondary color spectrum is meant to complement the dominant black & white of the primary colors. Used as accents in designs, these secondary colors can provide further specificity and recognizability to the brand but the usage is not mandatory. The Cosmos logos can be rendered using these colors when appropriate. The secondary colors should only be used as flat colors and not gradients.
+The secondary colors are meant to complement the dominant black & white of the primary colors. Used optionally as accents in designs, these secondary colors can provide further specificity and recognizability to the brand. [The Cosmos logos](#2-logos) can be rendered using these colors when appropriate. The secondary colors should only be used as flat colors and not gradients.
 
 #### Cosmos Violet
-The secondary color spectrum stems from violet, representing the most vibrant wavelength in the visual color spectrum. The Cosmos Violet is specifically defined as 23.4° (the Earth’s axial tilt) shift in hue from pure blue, in HSB color space.
+The secondary colors stem from violet, representing the most vibrant wavelength in the visual color spectrum. The Cosmos Violet is specifically defined as 23.4° (the Earth’s axial tilt) shift in hue from pure blue, in HSB color space.
 
 #### Cosmos Violet family
-The full family of colors is defined as the full spectrum of saturation (S in HSB, 0 to 100) in one way and brightness (B in HSB, 0 to 100) in the other way, of the Cosmos Violet.
+The full family of colors is defined as the full spectrum of saturation (`S` in HSB, `0` to `100`) in one way and brightness (`B` in HSB, `0` to `100`) in the other way, of the Cosmos Violet.
 
-Even though the below example only shows the spectrum in intervals of 20, any color inside the spectrum can be used to meet the needs of applications. However, it is best practice to default to pure Cosmos Violet whenever possible.
+Even though the below example only shows the spectrum in intervals of `10`, any color in between can be used to meet the needs of applications. However, it is best practice to default to pure Cosmos Violet whenever possible.
 
 |                                              | Name              | HSB           | RGB           | Hex     |
 | -------------------------------------------- | ----------------- | ------------- | ------------- | ------- |
@@ -119,7 +120,7 @@ Even though the below example only shows the spectrum in intervals of 20, any co
 | ![](https://placehold.co/15x15/924DFF/924DFF.png) | Cosmos Violet +30 | `263, 70, 100`  | `146, 77, 255 ` | `#924DFF` |
 | ![](https://placehold.co/15x15/8333FF/8333FF.png) | Cosmos Violet +20 | `263, 80, 100`  | `131, 51, 255 ` | `#8333FF` |
 | ![](https://placehold.co/15x15/731AFF/731AFF.png) | Cosmos Violet +10 | `263, 90, 100`  | `115, 26, 255 ` | `#731AFF` |
-| ![](https://placehold.co/15x15/6300FF/6300FF.png) | **Cosmos Violet**     | `263, 100, 100` | `99, 0, 255`    | `#6300FF` |
+| ![](https://placehold.co/15x15/6300FF/6300FF.png) | **Cosmos Violet (seed)**     | `263, 100, 100` | `99, 0, 255`    | `#6300FF` |
 | ![](https://placehold.co/15x15/5A00E5/5A00E5.png) | Cosmos Violet -10 | `263, 100, 90`  | `90, 0, 229   ` | `#5A00E5` |
 | ![](https://placehold.co/15x15/5000CC/5000CC.png) | Cosmos Violet -20 | `263, 100, 80`  | `80, 0, 204   ` | `#5000CC` |
 | ![](https://placehold.co/15x15/4600B2/4600B2.png) | Cosmos Violet -30 | `263, 100, 70`  | `70, 0, 178   ` | `#4600B2` |
@@ -137,7 +138,7 @@ The tertiary colors are chosen to optionally accompany the other two color sets 
 The tertiary color spectrum expands from the color called Cosmic latte, the average color of the universe found by a team of astronomers in 2002.
 
 #### Cosmic Latte family
-The full family of colors is defined as the band of colors from `HSB (42, 9, 100)` to `HSB (42, 59, 0)`, where the ratio between the incremental saturation and decremental brightness is 1:2.
+The full family of colors is defined as the band of colors from `HSB (42, 9, 100)` to `HSB (42, 59, 0)`, where the ratio between the incremental saturation (`S`) and decremental brightness (`B`) is 1:2.
 
 |                                              | Name              | HSB           | RGB           | Hex     |
 | -------------------------------------------- | ----------------- | ------------- | ------------- | ------- |
@@ -165,12 +166,15 @@ Cosmos ecosystem is an association of distinct communities with shared values. T
 
 One popular strategy of creating a brand in relation to another is to reference and appropriate certain aspects of the other brand, visual or conceptual. In our case, we feel that the best place to reference would be our color system. Since it allows a wide assortment of colors, it can be used to create a fresh set of colors that is distinct from the official Cosmos brand but still feels related.
 
-#### Sample color usage
-![Sample 1](assets/sample-web.png)
+#### Application samples
+![Webpage](assets/sample-web.png)
+[Download Sample 1 (FIG)](#)
 
-![Sample 1](assets/sample-twitter.png)
+![Twitter](assets/sample-twitter.png)
+[Download Sample 2 (FIG)](#)
 
-![Sample 1](assets/sample-diagram.png)
+![Diagram](assets/sample-diagram.png)
+[Download Sample 3 (EPS)](#)
 
 ## 4. Typography
 ### 4.1. Primary typeface
