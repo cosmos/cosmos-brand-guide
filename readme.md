@@ -142,7 +142,7 @@ The full family of colors is defined as the band of colors from `HSB (42, 9, 100
 
 |                                              | Name              | HSB           | RGB           | Hex     |
 | -------------------------------------------- | ----------------- | ------------- | ------------- | ------- |
-| ![](https://placehold.co/15x15/FFF8E8/FFF8E8.png) | **Cosmic Latte**      | `42, 9, 100`    | `255, 248, 232` | `#FFF8E8` |
+| ![](https://placehold.co/15x15/FFF8E8/FFF8E8.png) | **Cosmic Latte (seed)**      | `42, 9, 100`    | `255, 248, 232` | `#FFF8E8` |
 | ![](https://placehold.co/15x15/E5DBC5/E5DBC5.png) | Cosmic Latte -10  | `42, 14, 90`    | `229, 219, 197` | `#E5DBC5` |
 | ![](https://placehold.co/15x15/CCC0A5/CCC0A5.png) | Cosmic Latte -20  | `42, 19, 80`    | `204, 192, 165` | `#CCC0A5` |
 | ![](https://placehold.co/15x15/B2A688/B2A688.png) | Cosmic Latte -30  | `42, 24, 70`    | `178, 166, 136` | `#B2A688` |
