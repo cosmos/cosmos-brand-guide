@@ -79,7 +79,7 @@ The Cosmos logos should always be displayed in the brand’s primary color (a sh
 
 The color system of the Cosmos brand consists of three groups of colors – primary, secondary, and tertiary – each of which is a full spectrum of shades of a single ‘seed’ color. Among these three groups, only the primary colors can be rendered as gradient. Secondary and tertiary colors are always rendered flat.
 
-![Color table](assets/colors-pallette.svg)
+![Color table](assets/colors-palette.svg)
 
 ### 3.1. Primary colors
 The primary color space defines the most important set of colors of the brand: black and white. Unless there is a compelling reason, the Cosmos logos should be rendered in the colors in this space. The colors in this space can be used as flat, or as gradient.
