@@ -175,7 +175,7 @@ One popular strategy of creating a brand in relation to another is to reference 
 ## 4. Typography
 ### 4.1. Primary typeface
 #### HB Margin
-The Cosmos brand relies on HB Margin (beta), a contemporary sans-serif with sharp geometry combined with careful humanistic adjustments. For general typesetting purposes, it is recommended to use HB Margin L, a variant in the typeface family with the longest x-height. To access the typeface, please contact <TKTK NAME>, <TKTK TITLE>, <TKTK EMAIL>.
+The Cosmos brand relies on HB Margin (beta), a contemporary sans-serif with sharp geometry combined with careful humanistic adjustments. For general typesetting purposes, it is recommended to use HB Margin L, a variant in the typeface family with the longest x-height. To access the typeface, please contact [TKTK NAME], [TKTK TITLE], [TKTK EMAIL].
 
 ![HB Margin 1](assets/typography-hb-margin-1.svg)
 
@@ -184,7 +184,7 @@ The Cosmos brand relies on HB Margin (beta), a contemporary sans-serif with shar
 As a general rule, the typesetting should always default to using Regular weight, and use other weights sparingly for emphasis. When creating emphasis, it is also recommended to use only one visual indication – bold, italic, underline, all caps, etc – and not multiple, for crispness and to minimize redundancy.
 
 #### HB Margin features
-TKTKTK - Glyph coverage, ligatures, special characters, SS, tabular lining
+A useful feature of HB Margin is tabular figures, which can be turned on using OpenType features. The typeface also includes a few stylistic sets – SS01, SS02, and SS03 – which provide alternate letterforms for the characters ‘a’, ‘R’, and ‘Q’.
 
 ![HB Margin features](assets/typography-hb-margin-features.svg)
 
