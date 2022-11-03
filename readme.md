@@ -35,9 +35,9 @@ The logotype can be displayed in Cosmos Primary Colors (Black & White), or Secon
 
 [Download files](#)
 
-![Cosmos Hub logotype positive](assets/cosmosHub-logotype-positive.svg)
+![Cosmos Hub logotype positive](assets/cosmoshub-logotype-positive.svg)
 
-![Cosmos Hub logotype negative](assets/cosmosHub-logotype-negative.svg)
+![Cosmos Hub logotype negative](assets/cosmoshub-logotype-negative.svg)
 
 ### 2.3. Currency symbol for ATOM
 The ATOM is the Cosmos Hub’s primary token. Referencing the O with the axial tilt, the currency symbol for ATOM is ‘Ø’ (Unicode `U+00D8`). The symbol is an appropriation of a vowel from northern European languages, for versatility and ease-of-use.
