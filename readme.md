@@ -26,7 +26,7 @@ The logotype can be displayed in Cosmos Primary Colors (Black & White), or Secon
 
 ![Cosmos logotype positive](assets/cosmos-logotype-positive.svg)
 
-![Cosmos logotype negative](assets/Cosmos-logotype-negative.svg)
+![Cosmos logotype negative](assets/cosmos-logotype-negative.svg)
 
 ### 2.2. Cosmos Hub logotype
 The communities in the Cosmos ecosystem are connected via the Cosmos Hub, a voluntary association of blockchains. The Cosmos Hub logotype appends the circled word “HUB” to the Cosmos logotype, emphasizing the union of communities. Since the Cosmos Hub logotype contains the Cosmos logotype, using both on the same designed surface is redundant and should be avoided.
@@ -87,33 +87,10 @@ The primary color space defines the most important set of colors of the brand: b
 #### Black & white
 The color black embodies the clarity of the Cosmos brand. The primary color spectrum for the Cosmos brand starts from the pure black `HSB (0, 0, 0)` to the pure white `HSB (0, 0, 100)`. Any color inside the spectrum can be used to meet the needs of applications. However, it is best practice to default to pure black and white, unless there’s a specific need to use shades of gray.
 
-<table>
-<thead>
-<tr>
-<th></th>
-<th>Name</th>
-<th>HSB</th>
-<th>RGB</th>
-<th>Hex</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="background-color:#000000"></td>
-<td><b>Black</b></td>
-<td>0, 0, 0</td>
-<td>0, 0, 0</td>
-<td>#000000</td>
-</tr>
-<tr>
-<td style="background-color:#FFFFFF"></td>
-<td><b>White</b></td>
-<td>0, 0, 100</td>
-<td>255, 255, 255</td>
-<td>#FFFFFF</td>
-</tr>
-</tbody>
-</table>
+|                                              | Name              | HSB           | RGB           | Hex     |
+| -------------------------------------------- | ----------------- | ------------- | ------------- | ------- |
+| ![](https://placehold.co/15x15/000000/000000.png) | **Black**             | 0, 0, 0       | 0, 0, 0       | #000000 |
+| ![](https://placehold.co/15x15/FFFFFF/FFFFFF.png) | **White**             | 0, 0, 100     | 255, 255, 255 | #FFFFFF |
 
 #### Gradient
 When appropriate, the primary colors can be rendered as gradients. The gradient can be of the full spectrum – from brightness `0` to `100` – or partial. Be always mindful with the use of gradients. Overuse may lead to an overly superficial look that is against the brand’s intended tone of communication.
@@ -131,152 +108,27 @@ The full family of colors is defined as the full spectrum of saturation (S in HS
 
 Even though the below example only shows the spectrum in intervals of 20, any color inside the spectrum can be used to meet the needs of applications. However, it is best practice to default to pure Cosmos Violet whenever possible.
 
-<table>
-<thead>
-<tr>
-<th></th>
-<th>Name</th>
-<th>HSB</th>
-<th>RGB</th>
-<th>Hex</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="background-color:#EFE5FF"></td>
-<td>Cosmos Violet +90</td>
-<td>263, 10, 100</td>
-<td>239, 229, 255</td>
-<td>#EFE5FF</td>
-</tr>
-<tr>
-<td style="background-color:#E0CCFF"></td>
-<td>Cosmos Violet +80</td>
-<td>263, 20, 100</td>
-<td>224, 204, 255</td>
-<td>#E0CCFF</td>
-</tr>
-<tr>
-<td style="background-color:#D0B2FF"></td>
-<td>Cosmos Violet +70</td>
-<td>263, 30, 100</td>
-<td>208, 178, 255</td>
-<td>#D0B2FF</td>
-</tr>
-<tr>
-<td style="background-color:#C199FF"></td>
-<td>Cosmos Violet +60</td>
-<td>263, 40, 100</td>
-<td>193, 153, 255</td>
-<td>#C199FF</td>
-</tr>
-<tr>
-<td style="background-color:#B180FF"></td>
-<td>Cosmos Violet +50</td>
-<td>263, 50, 100</td>
-<td>177, 128, 255</td>
-<td>#B180FF</td>
-</tr>
-<tr>
-<td style="background-color:#A266FF"></td>
-<td>Cosmos Violet +40</td>
-<td>263, 60, 100</td>
-<td>162, 102, 255</td>
-<td>#A266FF</td>
-</tr>
-<tr>
-<td style="background-color:#924DFF"></td>
-<td>Cosmos Violet +30</td>
-<td>263, 70, 100</td>
-<td>146, 77, 255</td>
-<td>#924DFF</td>
-</tr>
-<tr>
-<td style="background-color:#8333FF"></td>
-<td>Cosmos Violet +20</td>
-<td>263, 80, 100</td>
-<td>131, 51, 255</td>
-<td>#8333FF</td>
-</tr>
-<tr>
-<td style="background-color:#731AFF"></td>
-<td>Cosmos Violet +10</td>
-<td>263, 90, 100</td>
-<td>115, 26, 255</td>
-<td>#731AFF</td>
-</tr>
-<tr>
-<td style="background-color:#6300FF"></td>
-<td><b>Cosmos Violet</b></td>
-<td>263, 100, 100</td>
-<td>99, 0, 255</td>
-<td>#6300FF</td>
-</tr>
-<tr>
-<td style="background-color:#5A00E5"></td>
-<td>Cosmos Violet -10</td>
-<td>263, 100, 90</td>
-<td>90, 0, 229</td>
-<td>#5A00E5</td>
-</tr>
-<tr>
-<td style="background-color:#5000CC"></td>
-<td>Cosmos Violet -20</td>
-<td>263, 100, 80</td>
-<td>80, 0, 204</td>
-<td>#5000CC</td>
-</tr>
-<tr>
-<td style="background-color:#4600B2"></td>
-<td>Cosmos Violet -30</td>
-<td>263, 100, 70</td>
-<td>70, 0, 178</td>
-<td>#4600B2</td>
-</tr>
-<tr>
-<td style="background-color:#3C0099"></td>
-<td>Cosmos Violet -40</td>
-<td>263, 100, 60</td>
-<td>60, 0, 153</td>
-<td>#3C0099</td>
-</tr>
-<tr>
-<td style="background-color:#320080"></td>
-<td>Cosmos Violet -50</td>
-<td>263, 100, 50</td>
-<td>50, 0, 128</td>
-<td>#320080</td>
-</tr>
-<tr>
-<td style="background-color:#280066"></td>
-<td>Cosmos Violet -60</td>
-<td>263, 100, 40</td>
-<td>40, 0, 102</td>
-<td>#280066</td>
-</tr>
-<tr>
-<td style="background-color:#1E004D"></td>
-<td>Cosmos Violet -70</td>
-<td>263, 100, 30</td>
-<td>30, 0, 77</td>
-<td>#1E004D</td>
-</tr>
-<tr>
-<td style="background-color:#140033"></td>
-<td>Cosmos Violet -80</td>
-<td>263, 100, 20</td>
-<td>20, 0, 51</td>
-<td>#140033</td>
-</tr>
-<tr>
-<td style="background-color:#0A001A"></td>
-<td>Cosmos Violet -90</td>
-<td>263, 100,10</td>
-<td>10, 0, 26</td>
-<td>#0A001A</td>
-</tr>
-</tbody>
-</table>
+|                                              | Name              | HSB           | RGB           | Hex     |
+| -------------------------------------------- | ----------------- | ------------- | ------------- | ------- |
+| ![](https://placehold.co/15x15/EFE5FF/EFE5FF.png) | Cosmos Violet +90 | 263, 10, 100  | 239, 229, 255 | #EFE5FF |
+| ![](https://placehold.co/15x15/E0CCFF/E0CCFF.png) | Cosmos Violet +80 | 263, 20, 100  | 224, 204, 255 | #E0CCFF |
+| ![](https://placehold.co/15x15/D0B2FF/D0B2FF.png) | Cosmos Violet +70 | 263, 30, 100  | 208, 178, 255 | #D0B2FF |
+| ![](https://placehold.co/15x15/C199FF/C199FF.png) | Cosmos Violet +60 | 263, 40, 100  | 193, 153, 255 | #C199FF |
+| ![](https://placehold.co/15x15/B180FF/B180FF.png) | Cosmos Violet +50 | 263, 50, 100  | 177, 128, 255 | #B180FF |
+| ![](https://placehold.co/15x15/A266FF/A266FF.png) | Cosmos Violet +40 | 263, 60, 100  | 162, 102, 255 | #A266FF |
+| ![](https://placehold.co/15x15/924DFF/924DFF.png) | Cosmos Violet +30 | 263, 70, 100  | 146, 77, 255  | #924DFF |
+| ![](https://placehold.co/15x15/8333FF/8333FF.png) | Cosmos Violet +20 | 263, 80, 100  | 131, 51, 255  | #8333FF |
+| ![](https://placehold.co/15x15/731AFF/731AFF.png) | Cosmos Violet +10 | 263, 90, 100  | 115, 26, 255  | #731AFF |
+| ![](https://placehold.co/15x15/6300FF/6300FF.png) | **Cosmos Violet**     | 263, 100, 100 | 99, 0, 255    | #6300FF |
+| ![](https://placehold.co/15x15/5A00E5/5A00E5.png) | Cosmos Violet -10 | 263, 100, 90  | 90, 0, 229    | #5A00E5 |
+| ![](https://placehold.co/15x15/5000CC/5000CC.png) | Cosmos Violet -20 | 263, 100, 80  | 80, 0, 204    | #5000CC |
+| ![](https://placehold.co/15x15/4600B2/4600B2.png) | Cosmos Violet -30 | 263, 100, 70  | 70, 0, 178    | #4600B2 |
+| ![](https://placehold.co/15x15/3C0099/3C0099.png) | Cosmos Violet -40 | 263, 100, 60  | 60, 0, 153    | #3C0099 |
+| ![](https://placehold.co/15x15/320080/320080.png) | Cosmos Violet -50 | 263, 100, 50  | 50, 0, 128    | #320080 |
+| ![](https://placehold.co/15x15/280066/280066.png) | Cosmos Violet -60 | 263, 100, 40  | 40, 0, 102    | #280066 |
+| ![](https://placehold.co/15x15/1E004D/1E004D.png) | Cosmos Violet -70 | 263, 100, 30  | 30, 0, 77     | #1E004D |
+| ![](https://placehold.co/15x15/140033/140033.png) | Cosmos Violet -80 | 263, 100, 20  | 20, 0, 51     | #140033 |
+| ![](https://placehold.co/15x15/0A001A/0A001A.png) | Cosmos Violet -90 | 263, 100,10   | 10, 0, 26     | #0A001A |
 
 ### 3.3. Tertiary colors
 The tertiary colors are chosen to optionally accompany the other two color sets to add subtleties to the applications. These colors should not be used as gradients, and also not to be used to render Cosmos logos.
@@ -287,89 +139,18 @@ The tertiary color spectrum expands from the color called Cosmic latte, the aver
 #### Cosmic Latte family
 The full family of colors is defined as the band of colors from `HSB (42, 9, 100)` to `HSB (42, 59, 0)`, where the ratio between the incremental saturation and decremental brightness is 1:2.
 
-<table>
-<thead>
-<tr>
-<th></th>
-<th>Name</th>
-<th>HSB</th>
-<th>RGB</th>
-<th>Hex</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="background-color:#FFF8E8"></td>
-<td><b>Cosmic Latte</b></td>
-<td>42, 9, 100</td>
-<td>255, 248, 232</td>
-<td>#FFF8E8</td>
-</tr>
-<tr>
-<td style="background-color:#E5DBC5"></td>
-<td>Cosmic Latte -10</td>
-<td>42, 14, 90</td>
-<td>229, 219, 197</td>
-<td>#E5DBC5</td>
-</tr>
-<tr>
-<td style="background-color:#CCC0A5"></td>
-<td>Cosmic Latte -20</td>
-<td>42, 19, 80</td>
-<td>204, 192, 165</td>
-<td>#CCC0A5</td>
-</tr>
-<tr>
-<td style="background-color:#B2A688"></td>
-<td>Cosmic Latte -30</td>
-<td>42, 24, 70</td>
-<td>178, 166, 136</td>
-<td>#B2A688</td>
-</tr>
-<tr>
-<td style="background-color:#998C6D"></td>
-<td>Cosmic Latte -40</td>
-<td>42, 29, 60</td>
-<td>153, 140, 109</td>
-<td>#998C6D</td>
-</tr>
-<tr>
-<td style="background-color:#807354"></td>
-<td>Cosmic Latte -50</td>
-<td>42, 34, 50</td>
-<td>128, 115, 84</td>
-<td>#807354</td>
-</tr>
-<tr>
-<td style="background-color:#665A3E"></td>
-<td>Cosmic Latte -60</td>
-<td>42, 39, 40</td>
-<td>102, 90, 62</td>
-<td>#665A3E</td>
-</tr>
-<tr>
-<td style="background-color:#4D432B"></td>
-<td>Cosmic Latte -70</td>
-<td>42, 44, 30</td>
-<td>77, 67, 43</td>
-<td>#4D432B</td>
-</tr>
-<tr>
-<td style="background-color:#332C1A"></td>
-<td>Cosmic Latte -80</td>
-<td>42, 49, 20</td>
-<td>51, 44, 26</td>
-<td>#332C1A</td>
-</tr>
-<tr>
-<td style="background-color:#19150B"></td>
-<td>Cosmic Latte -90</td>
-<td>42, 54, 10</td>
-<td>25, 21, 11</td>
-<td>#19150B</td>
-</tr>
-</tbody>
-</table>
+|                                              | Name              | HSB           | RGB           | Hex     |
+| -------------------------------------------- | ----------------- | ------------- | ------------- | ------- |
+| ![](https://placehold.co/15x15/FFF8E8/FFF8E8.png) | **Cosmic Latte**      | 42, 9, 100    | 255, 248, 232 | #FFF8E8 |
+| ![](https://placehold.co/15x15/E5DBC5/E5DBC5.png) | Cosmic Latte -10  | 42, 14, 90    | 229, 219, 197 | #E5DBC5 |
+| ![](https://placehold.co/15x15/CCC0A5/CCC0A5.png) | Cosmic Latte -20  | 42, 19, 80    | 204, 192, 165 | #CCC0A5 |
+| ![](https://placehold.co/15x15/B2A688/B2A688.png) | Cosmic Latte -30  | 42, 24, 70    | 178, 166, 136 | #B2A688 |
+| ![](https://placehold.co/15x15/998C6D/998C6D.png) | Cosmic Latte -40  | 42, 29, 60    | 153, 140, 109 | #998C6D |
+| ![](https://placehold.co/15x15/807354/807354.png) | Cosmic Latte -50  | 42, 34, 50    | 128, 115, 84  | #807354 |
+| ![](https://placehold.co/15x15/665A3E/665A3E.png) | Cosmic Latte -60  | 42, 39, 40    | 102, 90, 62   | #665A3E |
+| ![](https://placehold.co/15x15/4D432B/4D432B.png) | Cosmic Latte -70  | 42, 44, 30    | 77, 67, 43    | #4D432B |
+| ![](https://placehold.co/15x15/332C1A/332C1A.png) | Cosmic Latte -80  | 42, 49, 20    | 51, 44, 26    | #332C1A |
+| ![](https://placehold.co/15x15/19150B/19150B.png) | Cosmic Latte -90  | 42, 54, 10    | 25, 21, 11    | #19150B |
 
 ### 3.4. Usage
 The primary, secondary, and tertiary family provide a broad range of colors to choose from. Whenever possible, the designer should use the ‘seed’ colors – the black, the Cosmos Violet, and the Cosmic Latte – as the starting point.
