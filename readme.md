@@ -22,7 +22,7 @@ The Cosmos logotype is the first and the most important visual element of the br
 
 The logotype can be displayed in Cosmos Primary Colors (Black & White), or Secondary Colors (Cosmos Violet Family). Further details on colors can be found in [3. Color](#3-color).
 
-[Download files (svg, png, eps)](downloads/cosmos-logotype.zip)
+[Download files (svg, png, eps)](downloads/cosmos-logotype)
 
 ![Cosmos logotype positive](assets/cosmos-logotype-positive.svg)
 
@@ -33,7 +33,7 @@ The communities in the Cosmos ecosystem are connected via the Cosmos Hub, a volu
 
 The logotype can be displayed in Cosmos Primary Colors (Black & White), or Secondary Colors (Cosmos Violet Family). Further details on colors can be found in [3. Color](#3-color).
 
-[Download files (svg, png, eps)](downloads/cosmos-hub-logotype.zip)
+[Download files (svg, png, eps)](downloads/cosmos-hub-logotype)
 
 ![Cosmos Hub logotype positive](assets/cosmoshub-logotype-positive.svg)
 
@@ -53,7 +53,7 @@ It is also important to note that the symbol is always uppercase and not ‘ø�
 ### 2.4. Cosmos Badge
 The Cosmos badge is designed to be used as icons in various contexts, market databases and social media channels to represent the Cosmos and Cosmos Hub.
 
-[Download files (svg, png](downloads/cosmos-badge.zip)
+[Download files (svg, png](downloads/cosmos-badge)
 
 ![Cosmos badge](assets/cosmos-badge.svg)
 
@@ -80,7 +80,7 @@ The Cosmos logos should always be displayed in the brand’s primary color (a sh
 The color system of the Cosmos brand consists of three spaces of colors: [Primary](#31-primary-colors), [Secondary](#32-secondary-colors), and [Tertiary](#33-tertiary-colors). Primary colors consists of black & white. Secondary and Tertiary colors expands from a single 'seed' color, resulting in a family of related colors. The Primary colors can be rendered as a gradient but Secondary and tertiary colors are designed to be always used flat.
 
 ![Color table](assets/colors-palette.svg)
-[Download palette (svg, eps, ase)](downloads/cosmos-colors.zip)
+[Download palette (svg, eps, ase)](downloads/cosmos-colors)
 
 ### 3.1. Primary colors
 The primary colors define the most important set of colors of the brand: black and white. Unless there is a compelling reason, the Cosmos logos should always be rendered in these colors. The black and white can be rendered flat or as gradient.
