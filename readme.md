@@ -168,13 +168,13 @@ One popular strategy of creating a brand in relation to another is to reference 
 
 #### Application samples
 ![Webpage](assets/sample-web.png)
-[Download Sample 1 (fig)](#)
+[Download Sample 1 (svg, png)](downloads/sample-web)
 
 ![Twitter](assets/sample-twitter.png)
-[Download Sample 2 (fig)](#)
+[Download Sample 2 (svg, png)](downloads/sample-twitter)
 
 ![Diagram](assets/sample-diagram.png)
-[Download Sample 3 (eps)](#)
+[Download Sample 3 (ai, pdf)](downloads/sample-diagram)
 
 ## 4. Typography
 ### 4.1. Primary typeface
