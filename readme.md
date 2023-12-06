@@ -1,3 +1,5 @@
+***This is work in progress and should not be used yet. The font(s) and other assets presented here may not yet be licensed and are for preview only ***
+
 # Cosmos Brand Guide
 ## 1. Overview
 
